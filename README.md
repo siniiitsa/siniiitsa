@@ -1,4 +1,4 @@
-# Hi there, I'm Sergey!
+# Hi there, I'm Sergey 🤝
 A web developer based in Kiev, Ukraine.  
 Love the grind and problem solving.
 
