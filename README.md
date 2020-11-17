@@ -1,18 +1,25 @@
-### Hi there 👋 I'm Sergey.
-A web developer based in Kiev.
-Love the grind and a problem solving process.
+# Hi there, I'm Sergey!
+A web developer based in Kiev, Ukraine.  
+Love the grind and problem solving.
 
-<!--
-**siniiitsa/siniiitsa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I communicate here:
+- [Telegram](https://t.me/@siniiitsa) | [Facebook](https://www.facebook.com/siniiitsa) | [LinkedIn](https://www.linkedin.com/in/siniiitsa/) | [Email](mailto:siniiitsa@gmail.com)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Mobx and CSS Grid Layout
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Some of my pets:
+- [Hexlet Slack](https://github.com/siniiitsa/hexlet-slack)
+- [RSS Loader](https://github.com/siniiitsa/rss-loader)
+- [GenDiff](https://github.com/siniiitsa/gendiff)
+- [Brain Games](https://github.com/siniiitsa/brain-games)
+
+
+## What am I doing now?
+#### Learning
+- Web dev at [Hexlet.io](https://ru.hexlet.io/)
+- MobX
+- CSS Grid Layout
+
+#### Reading
+- [Eloquent JavaScript](https://eloquentjavascript.net/)
+  
