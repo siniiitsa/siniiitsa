@@ -1,6 +1,6 @@
 ### Open to job offers! 🤝
 
-[Facebook](https://www.facebook.com/siniiitsa) | 
+You can find me here: [Facebook](https://www.facebook.com/siniiitsa) | 
 [LinkedIn](https://www.linkedin.com/in/siniiitsa) | 
 [Email](mailto:siniiitsa@gmail.com) | 
 [Telegram](https://t.me/siniiitsa)
