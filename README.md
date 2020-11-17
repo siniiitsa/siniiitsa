@@ -2,12 +2,14 @@
 A web developer based in Kiev, Ukraine.  
 Love the grind and problem solving.
 
-[![homepage](./img/facebook.png)](https://www.facebook.com/siniiitsa "my facebook page")
+[Facebook](https://www.facebook.com/siniiitsa) | 
+[LinkedIn](https://www.linkedin.com/in/siniiitsa) | 
+[Email](mailto:siniiitsa@gmail.com) | 
+[Telegram](https://t.me/siniiitsa)
 
-`HTML5` `CSS3 + preprocessors (scss, sass)` `JavaScript (ES6+)`  `Git, Github, Gitflow` `Node.js`  `Ract, Redux ecosystem` `Webpack, Gulp` `Bootstrap` `jQuery` `Automated testing (Jest)` 
-`Regular expressions` `OOP principles` `FP principles`
+Main skills: `HTML`, `CSS`, `JavaScript`, `Node.js`, `React ecosystem`
 
-## What am I doing now?
+### What am I doing now?
 #### ⚗️ Learning
 - Web dev at [Hexlet.io](https://ru.hexlet.io/)
 - MobX
