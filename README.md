@@ -2,14 +2,14 @@
 A web developer based in Kiev, Ukraine.  
 Love the grind and problem solving.
 
-Write me here: [Telegram](https://t.me/@siniiitsa) | [Facebook](https://www.facebook.com/siniiitsa) | [LinkedIn](https://www.linkedin.com/in/siniiitsa/) | [Email](mailto:siniiitsa@gmail.com)
+[Telegram](https://t.me/@siniiitsa) | [Facebook](https://www.facebook.com/siniiitsa) | [LinkedIn](https://www.linkedin.com/in/siniiitsa/) | [Email](mailto:siniiitsa@gmail.com)
 
 ## What am I doing now?
-#### Learning
+#### ⚗️ Learning
 - Web dev at [Hexlet.io](https://ru.hexlet.io/)
 - MobX
 - CSS Grid Layout
 
-#### Reading
+#### 🔮 Reading
 - [Eloquent JavaScript](https://eloquentjavascript.net/)
   
