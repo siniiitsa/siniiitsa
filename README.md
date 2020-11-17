@@ -1,8 +1,8 @@
-# Hi there, I'm Sergey 🤝
+## Hi there, I'm Sergey 👾
 A web developer based in Kiev, Ukraine.  
 Love the grind and problem solving.
 
-[Facebook](https://www.facebook.com/siniiitsa) | 
+🤝 [Facebook](https://www.facebook.com/siniiitsa) | 
 [LinkedIn](https://www.linkedin.com/in/siniiitsa) | 
 [Email](mailto:siniiitsa@gmail.com) | 
 [Telegram](https://t.me/siniiitsa)
@@ -17,4 +17,3 @@ Main skills: `HTML`, `CSS`, `JavaScript`, `Node.js`, `React ecosystem`
 
 #### 🔮 Reading
 - [Eloquent JavaScript](https://eloquentjavascript.net/)
-  
