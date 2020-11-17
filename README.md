@@ -1,6 +1,5 @@
 ## Hi there, I'm Sergey 👾
-A web developer based in Kiev, Ukraine.  
-Love the grind and problem solving.
+A web developer based in Kiev, Ukraine. Love the grind and problem solving.
 
 [Facebook](https://www.facebook.com/siniiitsa) | 
 [LinkedIn](https://www.linkedin.com/in/siniiitsa) | 
