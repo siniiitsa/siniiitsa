@@ -2,8 +2,7 @@
 A web developer based in Kiev, Ukraine.  
 Love the grind and problem solving.
 
-I communicate here:
-- [Telegram](https://t.me/@siniiitsa) | [Facebook](https://www.facebook.com/siniiitsa) | [LinkedIn](https://www.linkedin.com/in/siniiitsa/) | [Email](mailto:siniiitsa@gmail.com)
+Write me here: [Telegram](https://t.me/@siniiitsa) | [Facebook](https://www.facebook.com/siniiitsa) | [LinkedIn](https://www.linkedin.com/in/siniiitsa/) | [Email](mailto:siniiitsa@gmail.com)
 
 ---
 
