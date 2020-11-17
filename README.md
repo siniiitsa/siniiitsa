@@ -7,7 +7,7 @@ Love the grind and problem solving.
 [Email](mailto:siniiitsa@gmail.com) | 
 [Telegram](https://t.me/siniiitsa)
 
-Main skills: `HTML`, `CSS`, `JavaScript`, `Node.js`, `React ecosystem`
+Main skills: `HTML` `CSS` `JavaScript` `Node.js` `React ecosystem`
 
 ### What am I doing now? 🤔
 #### Learning
