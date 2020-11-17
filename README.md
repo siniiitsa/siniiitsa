@@ -11,7 +11,6 @@ Main skills: `HTML` `CSS` `JavaScript` `Node.js` `React ecosystem`
 #### Learning
 - Web dev at [Hexlet.io](https://ru.hexlet.io/)
 - MobX
-- CSS Grid Layout
 
 #### Reading
 - [Eloquent JavaScript](https://eloquentjavascript.net/)
