@@ -10,4 +10,4 @@ You can find me here: [Facebook](https://www.facebook.com/siniiitsa) |
 #### What am I doing now? 🤔
 - Learning web dev at [Hexlet.io](https://ru.hexlet.io/)
 - Playing around with MobX
-- Reading [Eloquent JavaScript](https://eloquentjavascript.net/)
+- Meditating on [Eloquent JavaScript](https://eloquentjavascript.net/)
