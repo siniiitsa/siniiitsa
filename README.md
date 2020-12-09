@@ -10,5 +10,5 @@ You can find me here: [Facebook](https://www.facebook.com/siniiitsa) |
 #### What am I doing these days? 🤔
 
 - Learning web dev at [Hexlet.io](https://ru.hexlet.io/)
-- Playing around with [Ant Desing](https://ant.design/)
+- Playing around with MobX
 - Meditating on [Eloquent JavaScript](https://eloquentjavascript.net/)
