@@ -1,6 +1,6 @@
 ### Web Developer
 
-You can find me here: [Facebook](https://www.facebook.com/siniiitsa) |
+[Facebook](https://www.facebook.com/siniiitsa) |
 [LinkedIn](https://www.linkedin.com/in/siniiitsa) |
 [Email](mailto:siniiitsa@gmail.com) |
 [Telegram](https://t.me/siniiitsa)
@@ -9,6 +9,5 @@ You can find me here: [Facebook](https://www.facebook.com/siniiitsa) |
 
 #### What am I doing these days? 🤔
 
-- Learning fronted at Hexlet.io
 - Exploring Lodash library
-- Getting to know Typeskript
+- Getting to know TypeScript
