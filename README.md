@@ -9,4 +9,6 @@ You can find me here: [Facebook](https://www.facebook.com/siniiitsa) |
 
 #### What am I doing these days? 🤔
 
-- Learning backend with Node.js
+- Learning fronted at Hexlet.io
+- Exploring Lodash library
+- Getting to know Typeskript
