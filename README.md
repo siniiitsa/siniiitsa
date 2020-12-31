@@ -1,4 +1,4 @@
-### Open to job offers! 🤝
+### Web Developer
 
 You can find me here: [Facebook](https://www.facebook.com/siniiitsa) |
 [LinkedIn](https://www.linkedin.com/in/siniiitsa) |
