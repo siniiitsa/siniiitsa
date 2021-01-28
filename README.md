@@ -9,5 +9,5 @@
 
 #### What am I doing these days? 🤔
 
-- Exploring Lodash library
-- Getting to know TypeScript
+- Working at [QIT Online](https://www.qit.online/) app
+- Learnign programming at [Hexlet.io](hexlet.io) school
