@@ -10,4 +10,4 @@
 #### What am I doing these days? 🤔
 
 - Working at [QIT Online](https://www.qit.online/) app
-- Learning programming at [Hexlet.io](hexlet.io) school
+- Learning programming at [Hexlet.io](https://ru.hexlet.io/) school
