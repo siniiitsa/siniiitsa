@@ -7,7 +7,5 @@
 
 **Main skills**: `HTML` `CSS` `JavaScript` `Node.js` `React` `Redux`
 
-#### What am I doing these days? 🤔
-
 - Working at [QIT Online](https://www.qit.online/) app
 - Improving my programming skills at [Hexlet.io](https://ru.hexlet.io/)
