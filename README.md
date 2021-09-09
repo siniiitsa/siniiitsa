@@ -6,6 +6,3 @@
 [Telegram](https://t.me/siniiitsa)
 
 **Main skills**: `HTML` `CSS` `JavaScript` `Node.js` `React` `Redux`
-
-- Working at [QIT Online](https://www.qit.online/) app
-- Improving my programming skills at [Hexlet.io](https://ru.hexlet.io/)
