@@ -5,4 +5,4 @@
 [Email](mailto:siniiitsa@gmail.com) |
 [Telegram](https://t.me/siniiitsa)
 
-**Main skills**: `HTML` `CSS` `JavaScript` `Node.js` `React` `Redux`
+**Main skills**: `HTML` `CSS` `JavaScript` `TypeScript` `Node.js` `React`
